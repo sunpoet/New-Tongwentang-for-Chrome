@@ -54,7 +54,8 @@
             "js": [
                 "lib/tongwen/tongwen_core.js",
                 "lib/tongwen/tongwen_table_s2t.js" , "lib/tongwen/tongwen_table_t2s.js",
-                "lib/tongwen/tongwen_table_ps2t.js", "lib/tongwen/tongwen_table_pt2s.js"
+                "lib/tongwen/tongwen_table_ps2t.js", "lib/tongwen/tongwen_table_pt2s.js",
+                "lib/tongwen/tongwen_table_us2t.js", "lib/tongwen/tongwen_table_ut2s.js"
             ],
             "run_at": "document_start",
             "all_frames": true
